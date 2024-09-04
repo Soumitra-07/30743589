@@ -1,12 +1,12 @@
 package com.cts.customerloyalty;
 
-import com.cts.customerloyalty.db.DBConnection;
 import com.cts.customerloyalty.model.Customer;
 import com.cts.customerloyalty.model.Purchase;
 import com.cts.customerloyalty.model.Reward;
 import com.cts.customerloyalty.service.CustomerService;
 import com.cts.customerloyalty.service.PurchaseService;
 import com.cts.customerloyalty.service.RewardService;
+import com.cts.customerloyalty.util.DBConnection;
 
 import java.sql.Connection;
 import java.sql.SQLException;

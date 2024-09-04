@@ -1,4 +1,4 @@
-package com.cts.customerloyalty.db;
+package com.cts.customerloyalty.util;
 
 
 import java.sql.Connection;
